@@ -15,7 +15,7 @@
   <tr>
     <td width="55%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nu-K2&show_icons=true&hide_border=true&title_color=f15403&icon_color=f15403&text_color=e8e4dc&bg_color=0a1f1e&height=165" height="165" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Nu-K2&show_icons=true&hide_border=true&title_color=f15403&icon_color=f15403&text_color=e8e4dc&bg_color=0a1f1e&height=165" height="165" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nu-K2&layout=compact&langs_count=6&hide_border=true&title_color=f15403&text_color=e8e4dc&bg_color=0a1f1e&height=165" height="165" />
       </div>
       <div align="center">
@@ -29,13 +29,13 @@
         <a href="https://github.com/Nu-K2/InstrumentalTools">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nu-K2&repo=InstrumentalTools&hide_border=true&title_color=f15403&icon_color=f15403&text_color=e8e4dc&bg_color=0a1f1e" height="120" />
         </a>
+      </div>
     </td>
     <td width="45%" valign="top" align="center">
       <img src="https://i.pinimg.com/736x/8e/de/b1/8edeb16988124845f3278cd6906223ff.jpg" width="100%" style="border-radius: 20px; border: 2px solid #f15403; box-shadow: 0 0 28px rgba(241,84,3,0.35); max-height: 320px; object-fit: cover;" />
     </td>
   </tr>
 </table>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f5352&height=100&section=footer&flip=true" />
