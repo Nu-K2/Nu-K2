@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f5352&height=180&section=header&text=Ни-К.&fontSize=54&fontColor=f15403&fontFamily=Montserrat&animation=fade-in&desc=C%23%20%2F%20.NET%20backend%20%C2%B7%20student&descAlignY=78&descSize=16&descColor=e8e4dc" />
   <div>
     <img src="https://img.shields.io/badge/C%23-0a1f1e?style=for-the-badge&logo=dotnet&logoColor=f15403" />
-    <img src="https://img.shields.io/badge/.NET-0a1f1e?style=for-the-badge&logo=dotnet&logoColor=f15403" />
+   <img src="https://img.shields.io/badge/.NET-0a1f1e?style=for-the-badge&logo=dotnet&logoColor=f15403" />
     <img src="https://img.shields.io/badge/ASP.NET%20Core-0a1f1e?style=for-the-badge&logo=dotnet&logoColor=f15403" />
     <img src="https://img.shields.io/badge/Python-0a1f1e?style=for-the-badge&logo=python&logoColor=f15403" />
     <img src="https://img.shields.io/badge/Git-0a1f1e?style=for-the-badge&logo=git&logoColor=f15403" />
